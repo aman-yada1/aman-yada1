@@ -1,45 +1,39 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">
-  👋 Hi, I'm Aman Yadav
-</h1>
+<h1 align="center">👋 Hi, I'm Aman Yadav</h1>
 
 <h3 align="center">
-  B.Tech CS Student • Developer • DSA & AI Learner
+  B.Tech CSE Student | Aspiring Software Developer | DSA & Web Development
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+DSA+%F0%9F%A7%A0;Building+Projects+%F0%9F%9A%80;Exploring+AI+%26+GenAI+%F0%9F%A4%96;Improving+Every+Day+%F0%9F%94%A5"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Building+Projects+%F0%9F%9A%80;Exploring+Web+Development+%F0%9F%8C%90;Learning+Python+%26+AI+%F0%9F%A4%96;Improving+Every+Day+%F0%9F%94%A5" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/aman-yada1">
-    <img src="https://img.shields.io/badge/GitHub-asmitxdev-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-aman--yada1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://github.com/aman-yada1">
-    <img src="https://img.shields.io/badge/Currently-Learning-2563EB?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/aman-yadav-7b123456/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/aman-yada1">
-    <img src="https://img.shields.io/badge/Open_to-Collaborate-16A34A?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-16A34A?style=for-the-badge" alt="Continuous learning"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** interested in software development, problem solving, AI and building practical projects.
+Hi! I'm **Aman Yadav**, a B.Tech Computer Science student passionate about programming, problem-solving, and building practical software projects.
 
-- 🎓 B.Tech Computer Science student
-- 🧠 Currently improving my **DSA & problem-solving**
-- 🚀 Building projects to learn by doing
-- 🤖 Exploring **AI, GenAI & LLM applications**
-- 🌐 Learning modern web development
-- 🔧 Improving my Git & GitHub workflow
-- 🌱 Working towards contributing to open source
+* 🎓 Pursuing B.Tech in Computer Science.
+* 💻 Practicing Data Structures and Algorithms using C++.
+* 🧠 Solving coding problems and strengthening my problem-solving skills.
+* 🌐 Learning frontend and backend web development.
+* 🐍 Exploring Python and AI-powered applications.
+* 🗄️ Learning database management and backend development.
+* 🚀 Building projects to turn ideas into working applications.
+* 🌱 Continuously learning and improving as a developer.
 
 ---
 
@@ -47,155 +41,27 @@ I'm a **Computer Science student** interested in software development, problem s
 
 ## 💻 Programming Languages
 
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
-<b>C</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
-<b>C++</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
-<b>Python</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
-<b>Java</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
-<b>JavaScript</b>
-</td>
-
-</tr>
-</table>
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" alt="Programming languages"/>
+</p>
 
 ## 🌐 Web Development
 
-<table>
-<tr>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express" alt="Web development technologies"/>
+</p>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
-<b>HTML</b>
-</td>
+## 🗄️ Databases
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
-<b>CSS</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
-<b>Node.js</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
-<b>React</b>
-</td>
-
-</tr>
-</table>
-
----
-
-## 🗄️ Database & Backend
-
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
-<b>MySQL</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
-<b>MongoDB</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
-<b>Firebase</b>
-</td>
-
-</tr>
-</table>
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+</p>
 
 ## 🧰 Tools & Technologies
 
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
-<b>Git</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
-<b>GitHub</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
-<b>VS Code</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
-<b>Docker</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
-<b>Linux</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
-<b>Figma</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
-<b>Postman</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=arduino" width="55"/><br>
-<b>Arduino</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
-<b>React</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
-<b>Node.js</b>
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,figma" alt="Development tools"/>
+</p>
 
 ---
 
@@ -203,71 +69,63 @@ I'm a **Computer Science student** interested in software development, problem s
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+<h3>🧠 LeetCode Problem Solving</h3>
 
-<h3>♻️ EcoLoop AI</h3>
+A collection of solutions to coding problems that help me improve my understanding of data structures, algorithms, and problem-solving techniques.
 
-AI-powered circular economy concept focused on connecting industrial waste with potential reuse opportunities.
+**Technologies:** C++ • DSA • Algorithms
 
-<br>
-
-<b>Focus:</b>
-
-Python • AI • Web Development • APIs
-
-</td>
-
-<td width="50%">
-
-<h3>🎓 ShowcaseX</h3>
-
-A student portfolio concept designed to showcase skills, projects, achievements and academic work.
-
-<br>
-
-<b>Focus:</b>
-
-Web Development • UI/UX • JavaScript
+<a href="https://github.com/aman-yada1/Leetcode_problem">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View LeetCode repository"/>
+</a>
 
 </td>
+<td width="50%" valign="top">
 
+<h3>🤖 Personal AI Assistant</h3>
+
+A Python-based personal assistant project developed to explore automation, programming logic, and AI assistant functionality.
+
+**Technologies:** Python
+
+<a href="https://github.com/aman-yada1/personal-ai-assistant-python">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View AI assistant repository"/>
+</a>
+
+</td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+<h3>📸 Photography Portfolio</h3>
 
-<h3>🚗 Accident Detection System</h3>
+A photography portfolio website designed to showcase photographs in a visually appealing gallery.
 
-IoT-based accident detection project using sensors, microcontroller and GPS technology.
+**Technologies:** HTML • CSS
 
-<br>
-
-<b>Focus:</b>
-
-ESP8266 • MPU6050 • GPS • IoT
-
-</td>
-
-<td width="50%">
-
-<h3>🧠 DSA Practice</h3>
-
-Working through data structures and algorithms to strengthen problem-solving and programming fundamentals.
-
-<br>
-
-<b>Focus:</b>
-
-C++ • Data Structures • Algorithms
+<a href="https://github.com/aman-yada1/Photography-portfolio">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View photography portfolio"/>
+</a>
 
 </td>
+<td width="50%" valign="top">
 
+<h3>🌐 Personal Portfolio</h3>
+
+A portfolio website project focused on presenting personal information, development skills, and work through a web interface.
+
+**Technologies:** HTML • CSS
+
+<a href="https://github.com/aman-yada1/My-Portfolio.github.io">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View personal portfolio"/>
+</a>
+
+</td>
 </tr>
 </table>
-
-> 📌 As these projects become more complete, their repositories will be linked here.
 
 ---
 
@@ -275,98 +133,91 @@ C++ • Data Structures • Algorithms
 
 <table>
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Data Structures & Algorithms
 
-Improving problem-solving through regular DSA practice.
+Practicing coding problems, learning algorithmic techniques, and improving problem-solving efficiency.
 
 </td>
-
-<td width="50%">
-
-### 🤖 AI & GenAI
-
-Exploring AI tools, APIs, LLM applications and practical AI projects.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Full-Stack Development
 
-Learning how frontend, backend and databases work together.
+Learning how frontend interfaces, backend services, APIs, and databases work together.
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🐍 Python & AI
 
-### 🔓 Open Source
-
-Learning Git, GitHub workflows and how to contribute to open-source projects.
+Exploring Python development, automation, and the fundamentals of AI-powered applications.
 
 </td>
+<td width="50%" valign="top">
 
+### 🗄️ Database Management
+
+Learning SQL, database design, queries, and how applications interact with databases.
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 My Goals for 2026
 
-- 🧠 Improve DSA & competitive programming fundamentals
-- 🚀 Build more complete real-world projects
-- 🤖 Build practical AI/GenAI applications
-- 🌐 Improve full-stack development skills
-- 🔓 Make my first meaningful open-source contributions
-- 🏆 Participate in hackathons
-- 💼 Prepare for software-development internships
+* 🧠 Strengthen DSA and competitive programming fundamentals.
+* 💻 Solve more coding problems consistently.
+* 🚀 Build complete and useful software projects.
+* 🌐 Improve full-stack development skills.
+* 🐍 Develop practical Python applications.
+* 🤝 Learn about open-source contributions.
+* 🏆 Participate in hackathons and collaborative projects.
+* 💼 Prepare for software development internships.
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=asmitxdev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitxdev&layout=compact&theme=github_dark&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-yada1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-yada1&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=asmitxdev&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=aman-yada1&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-# 📈 My GitHub Journey
+# 📈 My Developer Journey
 
-I'm still growing my GitHub profile.
+I'm continuously working to improve my programming skills and become a better software developer.
 
-Right now, my focus is simple:
+My approach is simple:
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Practice
-  ↓
-Contribute
-  ↓
-Improve
+        LEARN
+          ↓
+        PRACTICE
+          ↓
+         BUILD
+          ↓
+        IMPROVE
+          ↓
+       CONTRIBUTE
+```
+
+I believe that consistent practice, curiosity, and building real projects are essential to becoming a better developer.
+
+---
+
+<h3 align="center">💻 Learn Something New Every Day. Build Something Better Every Time.</h3>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile! ⭐</i>
+</p>
