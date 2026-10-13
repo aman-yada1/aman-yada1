@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  B.Tech CSE Student • Aspiring Software Developer • DSA & Web Development
+  B.Tech CS Student • Aspiring Software Developer • DSA & Web Development
 </h3>
 
 <p align="center">
